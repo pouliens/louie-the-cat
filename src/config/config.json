@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/louie-the-cat/images/og-image.png",
     "meta_description": "Louie The Kitten"
   },
 
@@ -28,8 +28,8 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "",
+    "phone": ""
   }
 }

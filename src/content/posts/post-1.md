@@ -1,22 +1,20 @@
 ---
-title: "Second day of my life"
-description: "meta description"
-date: 2022-04-01T05:00:00Z
+title: "First day in new home"
+description: "I have been kidnapped and taken to new home. "
+date: 2024-06-22T19:00:00Z
 image: "/louie-the-cat/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+authors: ["Louie the Kitten"]
+tags: ["travel", "bath"]
+categories: ["reflections"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+I was born on the 26th of April. Who was I before my birth? Did I have a body or a face before I appeared on this planet? I will need to investigate this. It looks like I'm living in cat's body now. It's 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+New humans arrived and picked me up. They seem like nice people. I had to spend some time in the hot car, but they kept me entertained.
 
-## Creative Design
+Humans bathed me. Do they think that I don't know how to clean myself? 
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+I woke up at night and started screaming. Well, not actually screaming, but making cat noises. Humans were curious about my noises, so they fed me and reminded me where my toilet it. Very helpful.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+After the some more shenanigans I got tired and passed out.

@@ -1,22 +1,20 @@
 ---
-title: "First day in new home"
+title: "Spa day"
 description: "meta description"
-date: 2022-04-06T16:56:47+06:00
-image: "/louie-the-cat/images/posts/06.jpg"
-authors: ["Mark Dinn"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
+date: 2024-06-23T19:00:00Z
+image: "/louie-the-cat/images/posts/02.jpg"
+authors: ["Louie the Kitten"]
+tags: ["spa", "nails"]
+categories: ["lifeStyle"]
 draft: false
 ---
 
-Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
+Woke up at 6 am and made sure that humans are awake as well. They seem to respond to my cat noises quite well.
 
-To make a morning person out of you, the wake-up light simulates the sunrise to gradually ease you awake. This allows you to wake up more naturally rather than being jolted awake by the default iPhone alarm sound, which honestly triggers my fight or flight response.
+> It looks like I have a tail. It feels as if it has a mind of its own. No matter how hard I trie to catch it, it always seems to get away. But I will not give up.
 
-### Creative Design
+Humans fed me some treats and trimmed my nails. They waited till I was about to go for my nap, so I'm less energetic to resist. They did a pretty good job. My nails looks nice now, and they don't get stuck anywhere. Afterwards I got more treats. I should get my nails done more frequently.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Spent the afternoon exploring the new surroundings and napping. Humans seem to like when I wake up. They enjoy my presence. Maybe I was a holy person in my past life.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+It early evening now. Must go to sleep now, so I can wake up in the middle of the night and do some more cat stuff.
