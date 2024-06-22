@@ -1,5 +1,10 @@
 {
   "files.associations": {
     "*.mdx": "markdown"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5A0A3A",
+    "titleBar.activeBackground": "#7E0E51",
+    "titleBar.activeForeground": "#FFFCFD"
   }
 }
