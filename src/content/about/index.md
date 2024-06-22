@@ -8,13 +8,13 @@ what_i_do:
   title: "What I Do"
   items:
   - title: "Have Zoomies"
-    description: "I wake up in the middle of the night and I get the urge to hunt. There's nothing to hunt, but I still want to do it. Strange."
+    description: "I wake up in the middle of the night and I get the urge to hunt. There's nothing to hunt, but I still want to do it. Strange. Who puts the feelings in my body and the thoughts in my mind? Is somebody pulling my stings?"
   
   - title: "Try to fit into tight places"
-    description: "Sometimes I'm not sure how big my body is so I try to fit it into some tight places so I can better understand how big it is."
+    description: "I'm not sure how big my body is, so I try to fit it into tight places learn how big this physical form I inhabit is. It's all very important scientific research. If I fits, I sits! But also, if I fits, maybe I learns how bigs I sits?"
 
   - title: "Nap"
-    description: "I can sleep anywhere. In my dreams, I am a human - a taxi driver in Italy. Sometimes I'm not sure which life is real."
+    description: "I can sleep anywhere. In my dreams, I am a human - a taxi driver in Italy. Sometimes I'm not sure which life is real. I heard some philosophers say that life is a dream? Can I wake up from it? What is outside of this dream?"
   
 ---
 
