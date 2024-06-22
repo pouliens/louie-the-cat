@@ -2,7 +2,7 @@
 title: "Second day of my life"
 description: "meta description"
 date: 2022-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/louie-the-cat/images/posts/01.jpg"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
