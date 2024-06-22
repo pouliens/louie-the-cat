@@ -10,8 +10,8 @@ import config from "./src/config/config.json";
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "https://pouliens.github.io",
-  base: config.site.base_path ? config.site.base_path : "/louie-the-cat/",
+  site: "https://pouliens.github.io",
+  base: "/louie-the-cat/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {
     service: squooshImageService(),
