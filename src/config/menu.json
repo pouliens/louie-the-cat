@@ -2,15 +2,15 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/louie-the-cat"
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/louie-the-cat/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/louie-the-cat/contact"
     },
     {
       "name": "Pages",
@@ -19,23 +19,15 @@
       "children": [
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "/louie-the-cat/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/louie-the-cat/categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "url": "/louie-the-cat/tags"
         }
       ]
     }
@@ -43,19 +35,11 @@
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "/louie-the-cat/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/louie-the-cat/contact"
     }
   ]
 }
