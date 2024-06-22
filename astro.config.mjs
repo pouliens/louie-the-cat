@@ -12,6 +12,8 @@ import config from "./src/config/config.json";
 export default defineConfig({
   site: "https://pouliens.github.io",
   base: "/louie-the-cat/",
+  outDir: 'dist', // Output directory
+  publicDir: 'public',
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {
     service: squooshImageService(),
