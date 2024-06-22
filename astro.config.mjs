@@ -13,7 +13,7 @@ export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "https://pouliens.github.io",
   base: config.site.base_path ? config.site.base_path : "/louie-the-cat/",
   outDir: 'dist', // Output directory
-  publicDir: 'static',
+  // publicDir: 'static',
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {
     service: squooshImageService(),
