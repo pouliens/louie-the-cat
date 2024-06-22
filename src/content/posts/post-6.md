@@ -1,5 +1,5 @@
 ---
-title: "Become a morning person with the help of alarm clock"
+title: "First day in new home"
 description: "meta description"
 date: 2022-04-06T16:56:47+06:00
 image: "/images/posts/06.jpg"
