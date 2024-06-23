@@ -1,8 +1,8 @@
 ---
 title: "First day in new home"
 description: "I have been kidnapped and taken to new home. "
-date: 2024-06-22T19:00:00Z
-image: "/louie-the-cat/images/posts/01.jpg"
+date: 2024-06-21T19:00:00Z
+image: "/louie-the-cat/images/posts/01-min.jpg"
 authors: ["Louie the Kitten"]
 tags: ["travel", "bath"]
 categories: ["reflections"]

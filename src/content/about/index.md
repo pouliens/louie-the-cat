@@ -18,6 +18,6 @@ what_i_do:
   
 ---
 
-I have 8 weeks of experience of being a cat. I noticed that most of the cats now have TikTok or Instagram accounts, but I'm an old fashioned cat and prefer the blog format.
+I have 8 weeks of experience catting. I noticed that most of the cats now have TikTok or Instagram accounts, but I'm an old fashioned cat and prefer the blog format.
 
 

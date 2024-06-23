@@ -1,8 +1,8 @@
 ---
 title: "Spa day"
 description: "meta description"
-date: 2024-06-23T19:00:00Z
-image: "/louie-the-cat/images/posts/02.jpg"
+date: 2024-06-22T19:00:00Z
+image: "/louie-the-cat/images/posts/02-min.jpg"
 authors: ["Louie the Kitten"]
 tags: ["spa", "nails"]
 categories: ["lifeStyle"]
