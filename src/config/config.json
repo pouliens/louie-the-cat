@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Louie the Cat | Blog",
+    "base_url": "https://pouliens.github.io/louie-the-cat/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/louie-the-cat/images/favicon.png",
