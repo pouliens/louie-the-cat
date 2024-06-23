@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-This is me. Am I a cat, am I a human? Am I the universe looking at itself? I don't know. But I will keep investigating.
+This is me. Am I a cat, am I a human? Am I the universe looking at itself? I do not have all the answers. But I will keep investigating.
