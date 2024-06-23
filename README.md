@@ -1,6 +1,6 @@
 <h1 align=center>Louie the Cat Blog</h1>
 <p align=center>Furry content creator</p>
-<h2 align="center"><a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbookworm-light-astro.vercel.app%2F&form_factor=desktop">Louie the Cat🚀</a>
+<h2 align="center"><a  target="_blank" href="https://pouliens.github.io/louie-the-cat/">Louie the Cat🚀</a>
 </h2>
 
 <p align=center>
@@ -13,8 +13,6 @@
 
   <img src="https://img.shields.io/github/languages/code-size/themefisher/bookworm-light-astro" alt="code size">
 
-  <a href="https://github.com/themefisher/bookworm-light-astro/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-astro" alt="contributors"></a>
 </p>
 
 Project files for Louie the Cat blog.
