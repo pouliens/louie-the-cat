@@ -15,7 +15,7 @@ By the way, have you ever noticed how tasty those fake green plants look?
 
 I'm feeling pretty good today, thanks to a glorious nap. I'm fully charged for whatever tonight's midnight mayhem brings.
 
-## Cattitude of Gratitude 
+### Gratitude List
 
 Being a cat is not that bad. Before I was born into this furry form, I had my doubts. But so far, it's been pretty sweet. Humans seem to dig my look, though I'm not sure why they keep calling me "adorable." Whatever, I'll take the attention.
 
