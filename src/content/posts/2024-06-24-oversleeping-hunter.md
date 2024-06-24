@@ -2,7 +2,7 @@
 title: "Oversleeping Hunter"
 description: "meta description"
 date: 2024-06-24T10:00:00Z
-image: "/louie-the-cat/images/posts/04-little-ring.jpg"
+image: "/louie-the-cat/images/posts/04-little-ring.webp"
 authors: ["Louie the Kitten"]
 tags: ["hunting", "wet  food", "elden ring"]
 categories: ["reflections"]
@@ -27,7 +27,7 @@ Sometimes, an irresistible urge to run overcomes me. I could be strolling gracef
 
 Human Subject B attempted to introduce me to the virtual world of Elden Ring. The demons on the screen seemed quite tasty, but I'm not sure my tutor is qualified to teach me about hunting. After all, I already possess the instincts of a predator.
 
-![Learning to play Elden Ring](/louie-the-cat/images/posts/04-elden-ring-min.jpg)
+![Learning to play Elden Ring](/louie-the-cat/images/posts/04-elden-ring-min.webp)
 *Subject B trying to teach me to play Elden Ring*
 
 ## Gratitude List

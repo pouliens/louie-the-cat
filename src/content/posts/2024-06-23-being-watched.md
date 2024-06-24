@@ -2,7 +2,7 @@
 title: "I Am Being Watched"
 description: "meta description"
 date: 2024-06-23T10:00:00Z
-image: "/louie-the-cat/images/posts/03-being-watched-min.jpg"
+image: "/louie-the-cat/images/posts/03-being-watched-min.webp"
 authors: ["Louie the Kitten"]
 tags: ["privacy", "lifestyle", "weird"]
 categories: ["reflections"]
