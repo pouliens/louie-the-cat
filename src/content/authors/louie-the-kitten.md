@@ -1,6 +1,6 @@
 ---
 title: Louie the Kitten
-image: /louie-the-cat/images/authors/louie.jpg
+image: /louie-the-cat/images/authors/louie.webp
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
