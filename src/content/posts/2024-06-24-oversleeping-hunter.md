@@ -30,7 +30,7 @@ Human Subject B attempted to introduce me to the virtual world of Elden Ring. Th
 ![Learning to play Elden Ring](/louie-the-cat/images/posts/04-elden-ring-min.webp)
 *Subject B trying to teach me to play Elden Ring*
 
-## Gratitude List
+### Gratitude List
 
 Here’s what I’m feeling grateful for today:
 
