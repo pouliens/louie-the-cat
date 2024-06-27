@@ -19,7 +19,7 @@ I wonder if my tail might actually be attached to my body. But that's crazy. We'
 
 As long as it keeps following me, the pursuit will continue. I hold onto the hope that one day I'll catch it and demand an explanation.
 
-### Chasing God
+### Chasing My True Self
 
 But what if, in some strange twist of fate, my tail is a part of me? What else might I be connected to? The trees outside the window? The clouds drifting by? The stars glowing in the night sky? Where do I begin and where do I end?
 
