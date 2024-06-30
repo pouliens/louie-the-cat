@@ -13,7 +13,7 @@ draft: false
 
 Sure, there are things that could ruffle my fur — hidden toys when I'm ready for play, humans bumping into me as I emerge from my secret lair beneath the sofa, or those forbidden zones in my home (what treasures do those rooms hold?). But truth be told, I don't think my body is capable of holding onto anger or resentment. It's a rather small vessel, you see, and there's simply no room for such heavy emotions.
 
-My compact form needs to prioritise storage for those spectacular cat moves — the leaps, the pounces, the gravity-defying twists and turns - not to mention the other cat moves that make me look adorable to my human companions. Anger and resentment? They just don't seem like useful things to carry around. Sure, I might express a fleeting annoyance when the occasion arises, but then it disappear like cloud in the sky.
+My compact form needs to prioritise storage for those spectacular cat moves — the leaps, the pounces, the gravity-defying twists and turns - not to mention the other cat moves that make me look adorable to my human companions. Anger and resentment? They just don't seem like useful things to carry around. Sure, I might express a fleeting annoyance when the occasion arises, but then it disappears like smoke in the wind.
 
 ### Living in the Present Moment
 
