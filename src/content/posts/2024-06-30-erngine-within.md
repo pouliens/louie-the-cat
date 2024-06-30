@@ -9,7 +9,7 @@ categories: ["reflections"]
 draft: false
 ---
 
-There's a miniature engine humming away inside me, activate by joy. It produces the sound of purring. I wonder, where did this engine come from? Who installed it? What what triggers its gentle rumble?
+There's a miniature engine humming away inside me, activated by joy. It produces the sound of purring. I wonder, where did this engine come from? Who installed it? What what triggers its gentle rumble?
 
 I've discovered one good way to ignite it: a good chin scratch. The sensation is so pleasurable, it sends vibrations through my entire being. This cat form I inhabit is proving to be more interesting than I imagined it would be. 
 
