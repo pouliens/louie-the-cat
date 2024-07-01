@@ -4,7 +4,7 @@ description: "meta description"
 date: 2024-07-01T10:00:00Z
 image: "/louie-the-cat/images/posts/11-inner-worlds.webp"
 authors: ["Louie the Kitten"]
-tags: ["hunting", "wet food", "elden ring"]
+tags: ["inner worlds", "scratching post", "others"]
 categories: ["reflections"]
 draft: false
 ---
