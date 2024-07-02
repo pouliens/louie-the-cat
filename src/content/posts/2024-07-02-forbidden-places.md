@@ -6,7 +6,7 @@ image: "/louie-the-cat/images/posts/12-dangerous-places-thumb.webp"
 authors: ["Louie the Kitten"]
 tags: ["risk taking", "danger"]
 categories: ["reflections"]
-draft: true
+draft: false
 ---
 
 ### Thrill of Exploration
