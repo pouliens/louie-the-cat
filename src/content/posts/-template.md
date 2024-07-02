@@ -1,8 +1,8 @@
 ---
 title: "Oversleeping Hunter"
 description: "meta description"
-date: 2024-06-24T10:00:00Z
-image: "/louie-the-cat/images/posts/xx-name-of-picture.webp"
+date: 2024-07-01T10:00:00Z
+image: "/louie-the-cat/images/posts/xx-name-of-picture-thumb.webp"
 authors: ["Louie the Kitten"]
 tags: ["hunting", "wet food", "elden ring"]
 categories: ["reflections"]
