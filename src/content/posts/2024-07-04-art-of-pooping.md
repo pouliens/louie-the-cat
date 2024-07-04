@@ -4,7 +4,7 @@ description: "meta description"
 date: 2024-07-04T10:00:00Z
 image: "/louie-the-cat/images/posts/14-art-of-pooping.webp"
 authors: ["Louie the Kitten"]
-tags: ["pooping", "life lessons"]
+tags: ["poop", "life lessons"]
 categories: ["reflections"]
 draft: false
 ---
