@@ -1,10 +1,10 @@
 ---
-title: "Sound of Rain"
+title: "Aquaphobia"
 description: "meta description"
 date: 2024-07-05T10:00:00Z
 image: "/louie-the-cat/images/posts/15-sound-of-rain.webp"
 authors: ["Louie the Kitten"]
-tags: ["rain", "naps"]
+tags: ["rain", "nap"]
 categories: ["reflections"]
 draft: false
 ---
