@@ -1,27 +1,25 @@
 ---
-title: "Bags & Boxes"
+title: "Committing Crime"
 description: "meta description"
-date: 2024-07-11T10:00:00Z
-image: "/louie-the-cat/images/posts/21-bags-and-boxes-thumb.webp"
+date: 2024-07-12T12:00:00Z
+image: "/louie-the-cat/images/posts/22-committing-crime-thumb.webp"
 authors: ["Louie the Kitten"]
-tags: ["bgs", "boxes", "happiness"]
+tags: ["criminal", "crime", "adventure"]
 categories: ["lifestyle"]
 draft: false
 ---
 
-### On the Simple Joys of Life
+### Thrill of Mischief
 
-Boxes and bags... the source of endless joy. Give me a plain bin bag, a shoe box, an empty grocery bag – I'll transform them into my own personal playground.
+Crime? What is it, really? Some things that bring me immense joy – nibbling on plants, leaping into wardrobes, plotting daring escapes into the "wild west" of the apartment hallway – seem to cause distress for my human companions. They don't share my enthusiasm for these little acts of rebellion. I wish they were a bit more adventurous sometimes.
 
-I thinks the joy lies in the simplicity. And my needs are simple - I just need a few containers of varying sizes into which I can fit. I just don't understand why humans don't like to sit in bags and boxes. Maybe they don't make human sized sittable containers, or maybe they just don't like being happy.
-
-![Louie sitting in grocery bag](/louie-the-cat/images/posts/21-bags-and-boxes-full.webp)
-*Humans are jealous because they cannot fit into any of these bags*
+![Louie sitting in grocery bag](/louie-the-cat/images/posts/22-committing-crime-full.webp)
+*There's nothing better than taking a good nap after committing crime.*
 
 ### Gratitude List
 
 Here’s what I’m feeling grateful for today:
 
-* bags
-* boxes
-* bags in boxes
+* And endless number of crimes left to commit
+* Committing a crime without being caught
+* Getting treats despite being a criminal

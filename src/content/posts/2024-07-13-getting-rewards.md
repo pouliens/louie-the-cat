@@ -1,8 +1,8 @@
 ---
 title: "Bags & Boxes"
 description: "meta description"
-date: 2024-07-11T10:00:00Z
-image: "/louie-the-cat/images/posts/21-bags-and-boxes-thumb.webp"
+date: 2024-07-13T10:00:00Z
+image: "/louie-the-cat/images/posts/23-getting-rewarded-thumb.webp"
 authors: ["Louie the Kitten"]
 tags: ["bgs", "boxes", "happiness"]
 categories: ["lifestyle"]
